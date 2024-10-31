@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\bin\Debug\net8.0\07.Ders(OOP Encapsulation).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\bin\Debug\net8.0\07.Ders(OOP Encapsulation).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\bin\Debug\net8.0\07.Ders(OOP Encapsulation).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\bin\Debug\net8.0\07.Ders(OOP Encapsulation).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\bin\Debug\net8.0\07.Ders(OOP Encapsulation).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\refint\07.Ders(OOP Encapsulation).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\07.Ders(OOP Encapsulation).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\07.Ders(OOP Encapsulation)\obj\Debug\net8.0\ref\07.Ders(OOP Encapsulation).dll

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\bin\Debug\net8.0\04.Ders(Loop).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\bin\Debug\net8.0\04.Ders(Loop).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\bin\Debug\net8.0\04.Ders(Loop).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\bin\Debug\net8.0\04.Ders(Loop).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\bin\Debug\net8.0\04.Ders(Loop).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\refint\04.Ders(Loop).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\04.Ders(Loop).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\04.Ders(Loop)\obj\Debug\net8.0\ref\04.Ders(Loop).dll

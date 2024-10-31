@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\bin\Debug\net8.0\Practice_(File Handling).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\bin\Debug\net8.0\Practice_(File Handling).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\bin\Debug\net8.0\Practice_(File Handling).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\bin\Debug\net8.0\Practice_(File Handling).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\bin\Debug\net8.0\Practice_(File Handling).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\refint\Practice_(File Handling).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\Practice_(File Handling).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_(File Handling)\obj\Debug\net8.0\ref\Practice_(File Handling).dll

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\bin\Debug\net8.0\01.Ders(Console App).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\bin\Debug\net8.0\01.Ders(Console App).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\bin\Debug\net8.0\01.Ders(Console App).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\bin\Debug\net8.0\01.Ders(Console App).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\bin\Debug\net8.0\01.Ders(Console App).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\refint\01.Ders(Console App).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\01.Ders(Console App).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\01.Ders(Console App)\obj\Debug\net8.0\ref\01.Ders(Console App).dll

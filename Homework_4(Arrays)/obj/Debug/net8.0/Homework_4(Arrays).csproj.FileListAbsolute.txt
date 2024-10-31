@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\bin\Debug\net8.0\Homework_4(Arrays).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\bin\Debug\net8.0\Homework_4(Arrays).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\bin\Debug\net8.0\Homework_4(Arrays).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\bin\Debug\net8.0\Homework_4(Arrays).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\bin\Debug\net8.0\Homework_4(Arrays).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\refint\Homework_4(Arrays).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\Homework_4(Arrays).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_4(Arrays)\obj\Debug\net8.0\ref\Homework_4(Arrays).dll

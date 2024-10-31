@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\bin\Debug\net8.0\Homework_5(OOP).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\bin\Debug\net8.0\Homework_5(OOP).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\bin\Debug\net8.0\Homework_5(OOP).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\bin\Debug\net8.0\Homework_5(OOP).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\bin\Debug\net8.0\Homework_5(OOP).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\refint\Homework_5(OOP).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\Homework_5(OOP).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework_5(OOP)\obj\Debug\net8.0\ref\Homework_5(OOP).dll

@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\AreaCalculator(OOP\obj\Debug\net8.0\AreaCalculator(OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\AreaCalculator(OOP\obj\Debug\net8.0\AreaCalculator(OOP).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\AreaCalculator(OOP\obj\Debug\net8.0\AreaCalculator(OOP).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\AreaCalculator(OOP\obj\Debug\net8.0\AreaCalculator(OOP).csproj.CoreCompileInputs.cache

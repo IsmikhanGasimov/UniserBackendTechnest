@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\bin\Debug\net8.0\Practice(OOP polymorphism).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\bin\Debug\net8.0\Practice(OOP polymorphism).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\bin\Debug\net8.0\Practice(OOP polymorphism).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\bin\Debug\net8.0\Practice(OOP polymorphism).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\bin\Debug\net8.0\Practice(OOP polymorphism).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\refint\Practice(OOP polymorphism).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\Practice(OOP polymorphism).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice(OOP polymorphism)\obj\Debug\net8.0\ref\Practice(OOP polymorphism).dll

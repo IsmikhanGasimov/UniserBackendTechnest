@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\bin\Debug\net8.0\Practice_task.exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\bin\Debug\net8.0\Practice_task.deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\bin\Debug\net8.0\Practice_task.runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\bin\Debug\net8.0\Practice_task.dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\bin\Debug\net8.0\Practice_task.pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\refint\Practice_task.dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\Practice_task.genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Practice_task\obj\Debug\net8.0\ref\Practice_task.dll

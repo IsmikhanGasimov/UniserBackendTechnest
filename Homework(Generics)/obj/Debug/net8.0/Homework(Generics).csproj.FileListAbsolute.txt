@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\bin\Debug\net8.0\Homework(Generics).exe
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\bin\Debug\net8.0\Homework(Generics).deps.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\bin\Debug\net8.0\Homework(Generics).runtimeconfig.json
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\bin\Debug\net8.0\Homework(Generics).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\bin\Debug\net8.0\Homework(Generics).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).AssemblyInfo.cs
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\refint\Homework(Generics).dll
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).pdb
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\Homework(Generics).genruntimeconfig.cache
+C:\Users\USER\source\repos\Uniser Backend Technest\Homework(Generics)\obj\Debug\net8.0\ref\Homework(Generics).dll
